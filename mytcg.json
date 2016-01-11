@@ -1,0 +1,15 @@
+{
+    "name": "Randomizer",
+    "author": "Taty",
+    "authorUrl": "https://bombilate.net",
+    "supportUrl": "",
+    "fa-icon": "",
+    "version": "1.0",
+    "description": "A simple randomizer with the option to select how many cards to generate.",
+	"initFiles": [
+        {
+            "source": Randomizer.php.tmp",
+            "destination": "app/controllers/local/mytcg/Randomizer.php"
+        }
+    ]
+}
